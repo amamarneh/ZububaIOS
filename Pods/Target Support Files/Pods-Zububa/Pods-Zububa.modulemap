@@ -1,0 +1,6 @@
+framework module Pods_Zububa {
+  umbrella header "Pods-Zububa-umbrella.h"
+
+  export *
+  module * { export * }
+}
